@@ -1,0 +1,12 @@
+body {
+    background-color: #ffbb29;
+}
+h1 {
+    color: white;
+    font-size: 40px;
+}
+.main-menu {
+    align-content: center;
+    float: left;
+
+}
